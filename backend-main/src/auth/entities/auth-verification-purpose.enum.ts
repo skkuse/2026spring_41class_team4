@@ -1,0 +1,4 @@
+export enum AuthVerificationPurpose {
+  SIGNUP_VERIFICATION = 'SIGNUP_VERIFICATION',
+  PASSWORD_RESET = 'PASSWORD_RESET',
+}
